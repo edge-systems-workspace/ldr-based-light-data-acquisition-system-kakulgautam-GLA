@@ -12,6 +12,7 @@
 
  // TODO 1:
  // Define LDR analog pin (Use A0)
+#define LDR_PIN A0
 
  // TODO 2:
  // Create variable to store sensor reading
