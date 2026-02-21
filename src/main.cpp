@@ -26,6 +26,7 @@ void setup() {
 
     // TODO 4:
     // Print system initialization message
+    Serial.println("Light Intensity Monitoring System Initialized");
 }
 
 void loop() {
